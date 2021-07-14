@@ -1,4 +1,5 @@
 //go:generate goversioninfo
+//go version go1.10.7 windows/386
 package main
 
 import "C"
