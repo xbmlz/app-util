@@ -1,0 +1,1 @@
+go build -ldflags="-w -s" -buildmode=c-shared -o DelphiEx.dll main.go
